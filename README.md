@@ -23,13 +23,13 @@ Real time chat application made with React, NodeJS and Socket.io
     <td><img src="/img/Chat-io-chat-user-welcome.png" alt="Chat-io-chat"></td>
    </tr>
    <tr>
-    <td><img src="/img/Chat-io-chat-another-user-welcome.png" alt="Chat-io-chat"></td>
+    <td><img src="/img/Chat-io-chat-user-message.png" alt="Chat-io-chat"></td>
    </tr>
    <tr>
     <td><img src="/img/Chat-io-chat-another-user-joined.png" alt="Chat-io-chat"></td>
    </tr>
    <tr>
-    <td><img src="/img/Chat-io-chat-user-message.png" alt="Chat-io-chat"></td>
+    <td><img src="/img/Chat-io-chat-another-user-welcome.png" alt="Chat-io-chat"></td>
    </tr>
    <tr>
     <td><img src="/img/Chat-io-chat-another-user-message.png" alt="Chat-io-chat"></td>
