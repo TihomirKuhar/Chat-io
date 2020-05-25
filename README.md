@@ -4,7 +4,7 @@ Real time chat application made with React, NodeJS and Socket.io
 <table style="width:100%">
   <caption>Presentation video</caption>
   <tr>
-    <td><img src="/IMG/site-imgs/amp-de.gif" alt="amp-site"></td>
+    <td><img src="/IMG/Chat-io.gif" alt="Chat-io"></td>
   </tr>
 </table>
 
